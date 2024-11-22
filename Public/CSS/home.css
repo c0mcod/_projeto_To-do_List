@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.container {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.container-style {
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.trash-btn {
+    background-color: #fff;
+    border: none;
+    transition: background-color 0.3s ease;
+    ;
+}
+
+.trash-btn:hover {
+    color: #fff;
+    background-color: rgb(243, 34, 34);
+}
